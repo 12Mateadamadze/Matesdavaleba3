@@ -1,0 +1,3 @@
+marika=(32)
+mate=(12)
+print(mate+marika)
